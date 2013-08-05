@@ -1,0 +1,6 @@
+[submodule "parent"]
+	path = parent
+	url = https://github.com/hkurohara/parent.git
+[submodule "org.wiperdog.rshell.api"]
+	path = org.wiperdog.rshell.api
+	url = https://github.com/hkurohara/org.wiperdog.rshell.api.git
